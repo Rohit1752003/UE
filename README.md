@@ -43,11 +43,10 @@ Your project should start running on `http://localhost:3000`
 
 ## Author
 
-👤 **Olabode Lawal-Shittabey**
+👤 **Rohit Wankhede**
 
-* Twitter: [@babblebey](https://twitter.com/babblebey)
-* LinkedIn: [@babblebey](https://linkedin.com/in/babblebey)
-* Instagram: [@babblebey](https://instagram.com/babblebey)
+* LinkedIn: [@Rohit1752003](https://linkedin.com/in/babblebey)
+* Instagram: [@Rohit1752003](https://instagram.com/babblebey)
 
 ## Show your support
 
